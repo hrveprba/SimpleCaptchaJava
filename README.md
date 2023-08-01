@@ -5,6 +5,9 @@ This project used for practicing my Java skill—because I'm Beginners in Java�
 
 You can use this app for free and freely to contribute to this app development! Thank you 💖
 
+# Install Instruction
+Before using this app, you should install [Eclipse Temurin JDK 17.0][https://adoptium.net/temurin/releases/] software in your operating system!
+
 ## 🔗 Contact Me ↴
 LinkedIn : [LinkedIn](https://www.linkedin.com/in/herveprba/)\
 Github : [Github](https://github.com/hrveprba)\
